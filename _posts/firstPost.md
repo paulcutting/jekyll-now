@@ -1,3 +1,8 @@
+---
+layout: post
+title: first post!
+---
+
 # Header 1
 Does this post work well??
 
