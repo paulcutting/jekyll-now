@@ -1,6 +1,6 @@
 ---
 layout: post
-title: first post!
+title: Second post!
 ---
 
 # Second Post!
